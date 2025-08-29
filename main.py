@@ -60,6 +60,7 @@ participant =  {
 save_participant(csv_file,participant)
 all_participants = load_participants(csv_file)
 
+
 for i in all_participants:
      print(i)
 try:

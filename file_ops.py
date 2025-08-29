@@ -36,7 +36,12 @@ def load_participants(path):
             print("-" * 40)
            else:  # Data rows
             print(f"{row}")
-  
+
+
+
+
+
+                
 
 
 
